@@ -2,7 +2,7 @@
 
 Let's talk about the web technologies that are used to develop each of these Web application layers. 
 
-<img src="/assets/images/screenshot-www.udemy.com-2023.03.05-17_59_34.png" width="70%" />
+<img src="/images/screenshot-www.udemy.com-2023.03.05-17_59_34.png" width="70%" />
 
 ## Front End
 
