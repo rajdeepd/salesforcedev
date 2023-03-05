@@ -2,13 +2,13 @@
 
 Let's talk about the web technologies that are used to develop each of these Web application layers. 
 
-<img src="/images/screenshot-www.udemy.com-2023.03.05-17_59_34.png" width="70%" />
+<img src="/salesforcedev/docs/assets/images/screenshot-www.udemy.com-2023.03.05-17_59_34.png" width="70%" />
 
 ## Front End
 
 For front end, we use HTML, the HTML is used to create the UI markup. That means, an HTML markup decides how your UI should look, which button should go where, and which section should go where, where you need to display your navigation bar, where you need to put your images, and all these things are decided by the HTML. For client side computation or for front end logic,
 
-<img src="/assets/images/screenshot-www.udemy.com-2023.03.05-18_00_53.png" width="70%" />
+<img src="/salesforcedev/docs/assets/images/screenshot-www.udemy.com-2023.03.05-18_00_53.png" width="70%" />
 
 we use JavaScript, so JavaScript gives your HTML pages some dynamic behavior.
 So, this means, if I click on a button, I can use my JavaScript to make some things happen.
@@ -34,7 +34,7 @@ There are tons and tons of front end frameworks out there in the market, each wi
 
 Now let's talk about Back end. There are multiple technologies available to build the backend and they have evolved into various frameworks.
 
-<img src="/assets/images/screenshot-www.udemy.com-2023.03.05-18_01_45.png" width="70%" />
+<img src="/salesforcedev/docs/assets/images/screenshot-www.udemy.com-2023.03.05-18_01_45.png" width="70%" />
 
 To build your back end,  you can use Java, which is again, a widely popular language  and it's been there since ages,  and it's so much mature that you can do almost everything with Java.  Then we have Node.js which is based on JavaScript.  So, if you know JavaScript, then you can build your front end as well and your back end as well.
 
@@ -49,7 +49,7 @@ We have Ruby on Rails as well.And again, here as well,the list goes on.There are
 
 Now let's talk about our database technologies, the database technologiescan be of two types, the SQL database or NoSQL database.
 
-<img src="/assets/images/screenshot-www.udemy.com-2023.03.05-18_02_01.png" width="70%" />
+<img src="/salesforcedev/docs/assets/images/screenshot-www.udemy.com-2023.03.05-18_02_01.png" width="70%" />
 
 The SQL database stores your data in a tabular format where you can have relationships with multiple tables as well.Where NoSQL database stores your datain Json format. 
 
