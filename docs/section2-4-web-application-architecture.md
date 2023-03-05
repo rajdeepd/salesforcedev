@@ -4,14 +4,14 @@
 
 It is important that you understand how a Web application works before you start building one.
 
-<img src="./images/Screenshot_2023-02-26_at_7.13.50_PM.png" width="70%" />
+<img src="/assets/images/Screenshot_2023-02-26_at_7.13.50_PM.png" width="70%" />
 
 A Web application is a combination of many small programs, and all these programs work together to serve a purpose.
 
 At the very least, a Web application has a front end, a back end, and a database to store the data.
 
-<img src="./images/Screenshot_2023-02-26_at_7.15.48_PM.png" width="70%" />
-<img src="./images/Screenshot_2023-02-26_at_7.17.11_PM.png" width="70%" />
+<img src="/assets/images/Screenshot_2023-02-26_at_7.15.48_PM.png" width="70%" />
+<img src="/assets/images/Screenshot_2023-02-26_at_7.17.11_PM.png" width="70%" />
 
 
 ## Illustration
@@ -20,20 +20,20 @@ So, here you are, trying to view your favorite video on YouTube or if you are a 
 
 So, you opened up your browser and clicked on a video.
 
-<img src="./images/Screenshot_2023-02-26_at_7.18.18_PM.png" width="70%" />
+<img src="/assets/images/Screenshot_2023-02-26_at_7.18.18_PM.png" width="70%" />
 
 Now behind the scene, it will send a request to the YouTube application server and it will send your identity like this user is requesting for this particular video.
 
-<img src="./images/Screenshot_2023-02-26_at_7.18.30_PM.png" width="70%" />
+<img src="/assets/images/Screenshot_2023-02-26_at_7.18.30_PM.png" width="70%" />
 
 Your application server is going to process this request.
 It's going to check your identity if you are a genuine user or not, or if you have a subscription or not.
 And, then it's going to request for the data from the database server.
 So, the database server will have the video files that you may want to view.
 
-<img src="./images/Screenshot_2023-02-26_at_7.17.26_PM.png" width="70%" />
+<img src="/assets/images/Screenshot_2023-02-26_at_7.17.26_PM.png" width="70%" />
 
-<img src="./images/Screenshot_2023-02-26_at_7.17.57_PM.png" width="70%" />
+<img src="/assets/images/Screenshot_2023-02-26_at_7.17.57_PM.png" width="70%" />
 
 This database server is going to return the response to your application server back or maybe a link to the video file where the video file is stored, and then your application server is going to send back the response to your browser that, please play this video file from this particular location.
 
@@ -83,7 +83,7 @@ This order will be sent to the kitchen, where the order will be prepared. To pre
 
 Now, again, here we can say the seating area is the client site or a front end from where the user can interact with your application, or in this case, the user can place an order.
 
-<img src="./images/Screenshot_2023-02-26_at_7.29.18_PM.png" width="70%" />
+<img src="/assets/images/Screenshot_2023-02-26_at_7.29.18_PM.png" width="70%" />
 
 The kitchen is back end or our application server where the request will be processed or the order will be prepared.
 
@@ -93,8 +93,8 @@ So, this is a classic example to explain how a Web application works and I hope 
 
 ## Front End vs Back end
 
-<img src="./images/Screenshot_2023-02-26_at_7.30.17_PM.png" width="70%" />
-<img src="./images/Screenshot_2023-02-26_at_7.30.44_PM.png" width="70%" />
+<img src="/assets/images/Screenshot_2023-02-26_at_7.30.17_PM.png" width="70%" />
+<img src="/assets/images/Screenshot_2023-02-26_at_7.30.44_PM.png" width="70%" />
 
 So, this is how a front end looks, where you see the natural beauty and a happy father and his son but, if you want to work on the back end, then this is how it looks.
 
