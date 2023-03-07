@@ -1,11 +1,12 @@
-# Web Application Fundamdentals
+---
+layout: page
+title: Web Application Fundamdentals
+permalink: 
+---
 
 ## Web Application Architecture
 
 It is important that you understand how a Web application works before you start building one.
-
-<img src="/salesforcedev/docs/assets/images/Screenshot_2023-02-26_at_7.13.50_PM.png" width="70%" />
-
 
 A Web application is a combination of many small programs, and all these programs work together to serve a purpose.
 

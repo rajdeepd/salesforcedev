@@ -1,4 +1,8 @@
-# Section 2: Web Technologies
+---
+layout: page
+title: Web Technologies
+permalink: 
+---
 
 Let's talk about the web technologies that are used to develop each of these Web application layers. 
 

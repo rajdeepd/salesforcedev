@@ -1,5 +1,10 @@
-# Course Overview
-## Resources
+---
+layout: page
+title: Course Overview
+permalink: 
+---
+
+### Resources
 
 [Apex Development Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
 
