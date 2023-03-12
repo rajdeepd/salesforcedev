@@ -29,7 +29,7 @@ github_username: rajdeepd
 
 # Build settings
 #theme: minima 
-theme: just-the-docs
+#theme: just-the-docs
 plugins:
   - jekyll-feed
 
