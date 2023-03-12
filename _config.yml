@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 
+title: Journey 2 Employment
 email: rajdeep.dua at gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Resources for Salesforce Developers as part of VTO Activity
@@ -32,6 +32,8 @@ github_username: rajdeepd
 theme: just-the-docs
 plugins:
   - jekyll-feed
+
+remote_theme: pmarsceill/just-the-docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
