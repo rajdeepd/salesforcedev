@@ -28,8 +28,8 @@ twitter_username: rajdeepdua
 github_username: rajdeepd
 
 # Build settings
-theme: minima 
-#theme: jekyll-theme-dinky
+#theme: minima 
+theme: just-the-docs
 plugins:
   - jekyll-feed
 

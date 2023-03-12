@@ -18,19 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Salesforce Developer Resources
-email: your-email@example.com
+title: 
+email: rajdeep.dua at gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Resources for Salesforce Developers as part of VTO Activity
-baseurl: "/salesforcedev" # the subpath of your site, e.g. /blog
+baseurl: "/salesforcedev"
 url: "https://rajdeepd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rajdeepdua
 github_username: rajdeepd
 
 # Build settings
-#theme: minima
-theme: just-the-docs
-
+theme: minima 
+#theme: just-the-docs
 plugins:
   - jekyll-feed
 
