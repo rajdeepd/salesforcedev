@@ -1,4 +1,11 @@
-# Salesforce Developer Tools
+---
+layout: page
+title: Salesforce Developer Tool Details
+permalink: 
+parent: Salesforce Declarative and Dev Tools
+nav_order: 3
+---
+
 
 There are multiple code editors that Salesforce supports that help you write code, that is Lightning Components or back-end code like Apex.
 

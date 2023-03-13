@@ -2,6 +2,7 @@
 layout: page
 title: Course Overview
 permalink: 
+nav_order: 1
 ---
 
 ### Resources

@@ -2,6 +2,8 @@
 layout: page
 title: Salesforce Technologies
 permalink: 
+parent: Web Technologies
+nav_order: 2
 ---
 We will give an overview of Salesforce Web Technologies now. Salesforce currently supports two types of user experiences.
 

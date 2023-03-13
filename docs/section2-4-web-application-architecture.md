@@ -2,6 +2,8 @@
 layout: page
 title: Web Application Fundamdentals
 permalink: 
+parent: Salesforce Developer Tools
+nav_order: 2
 ---
 
 ## Web Application Architecture

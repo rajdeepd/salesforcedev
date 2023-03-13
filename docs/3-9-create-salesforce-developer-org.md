@@ -2,6 +2,8 @@
 layout: page
 title: Developer Edition Org
 permalink: 
+parent: Salesforce Declarative and Dev Tools
+nav_order: 3
 ---
 Let us sign up for a new Developer Edition Org.
 

@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Web Technologies
+title: Web Technologies Overview
 permalink: 
+parent: Web Technologies
+nav_order: 2
 ---
 
 Let's talk about the web technologies that are used to develop each of these Web application layers. 

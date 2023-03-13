@@ -1,5 +1,11 @@
 
-# Declarative tools in Salesforce
+---
+layout: page
+title: Declarative tools in Salesforce
+permalink: 
+parent: Salesforce Declarative and Dev Tools
+nav_order: 3
+---
 
 Apex is not the only technology in Salesforce which can access your data or manipulate it. Apart from Apex, there are multiple declarative tools available in Salesforce which can read your data  or manipulate it. These declarative tools are also called the point and click tools because you do not have to write any code to use these.
 
