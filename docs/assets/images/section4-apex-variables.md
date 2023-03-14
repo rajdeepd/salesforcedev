@@ -2,9 +2,10 @@
 layout: page
 title: Apex Variables
 permalink: 
-nav_order: 4
+nav_order: 2
 parent: Apex
 ---
+# Apex Variables
 
 Apex is a strongly typed language, supports the following variables
 

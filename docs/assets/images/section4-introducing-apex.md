@@ -2,9 +2,10 @@
 layout: page
 title: Introducing Apex
 permalink: 
-nav_order: 4
+nav_order: 1
 parent: Apex
 ---
+# Introducing Apex
 
 Apex is a strongly typed Object Oriented language to execture flows and transactional statements on Salesforce platform servers.
 
